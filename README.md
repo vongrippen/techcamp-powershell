@@ -2,6 +2,8 @@
 ## Mike Cochran
 ## github.com/vongrippen
 
+[These samples](https://github.com/vongrippen/techcamp-powershell)
+
 [Microsoft Virtual Academy: Getting Started with PowerShell 3.0](https://mva.microsoft.com/liveevents/powershell-jumpstart)
 
 [PowerShell Gallery](http://powershellgallery.com)
