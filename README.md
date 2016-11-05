@@ -1,6 +1,9 @@
 ﻿# PowerShell: The Best Shell Since Bash
 ## Mike Cochran
+## mcochran@linux.com
 ## github.com/vongrippen
+
+[joind.in](https://joind.in/talk/dab77)
 
 [These samples](https://github.com/vongrippen/techcamp-powershell)
 
